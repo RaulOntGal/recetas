@@ -1,7 +1,9 @@
+
 #Guacamole
 ##Ingredients
 *lemon
 *salt
 *avocado
-##Instructions
 
+##Instructions
+Smash the avocado with fork
